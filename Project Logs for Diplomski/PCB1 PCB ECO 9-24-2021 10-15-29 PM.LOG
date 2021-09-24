@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOD_POZICIJA Pin=MK-2
+Removed Pin From Net: NetName=MOD_BRZINA Pin=MK-3
+Added Pin To Net: NetName=MOD_POZICIJA Pin=MK-25
+Added Pin To Net: NetName=MOD_BRZINA Pin=MK-27
