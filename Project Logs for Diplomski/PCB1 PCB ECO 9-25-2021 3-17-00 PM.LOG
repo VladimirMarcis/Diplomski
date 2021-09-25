@@ -1,0 +1,12 @@
+Added Component: Designator=J12(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J13(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_1 Pin=J12-1
+Added Pin To Net: NetName=VCC_9V Pin=J12-2
+Added Pin To Net: NetName=DODATNI1 Pin=J13-1
+Added Pin To Net: NetName=DODATNI1 Pin=MK-18
+Added Net: Name=DODATNI1
+Added Pin To Net: NetName=DODATNI2 Pin=J13-2
+Added Pin To Net: NetName=DODATNI2 Pin=MK-19
+Added Net: Name=DODATNI2
